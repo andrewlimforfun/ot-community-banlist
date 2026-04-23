@@ -1,0 +1,24 @@
+{
+    "MutedPlayers": [],
+    "MutedPlayerNicks": [],
+    "IgnorePlayers": [],
+    "IgnorePlayerNicks": [],
+    "BanServerPlayers": [
+        "76561199028273253",
+        "76561198112396228",
+        "76561199130901234",
+        "76561198068332863",
+        "76561198136747717",
+        "76561197983544929",
+        "76561199126400058"
+    ],
+    "BanServerPlayerNicks": [
+        "Ferg",
+        "Godriguez",
+        "CERM$LINGER",
+        "C0CK$LINGER",
+        "HENTAI GOD",
+        "8y_cu",
+        "ZestyPingus"
+    ]
+}
