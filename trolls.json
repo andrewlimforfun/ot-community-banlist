@@ -2,43 +2,50 @@
   {
     "name": "Ferg",
     "steamid": "76561199028273253",
+    "steam_url": "https://steamcommunity.com/profiles/76561199028273253",
     "community": "Cozy Corner",
     "reason": "racial slurs and bullying"
   },
   {
     "name": "Godriguez",
     "steamid": "76561198112396228",
+    "steam_url": "https://steamcommunity.com/profiles/76561198112396228",
     "community": "Cozy Corner",
     "reason": "racial slurs and bullying"
   },
   {
     "name": "CERM$LINGER",
     "steamid": "76561199130901234",
+    "steam_url": "https://steamcommunity.com/profiles/76561199130901234",
     "community": "Cozy Corner",
     "reason": "racial slurs"
   },
   {
     "name": "C0CK$LINGER",
     "steamid": "76561198068332863",
+    "steam_url": "https://steamcommunity.com/profiles/76561198068332863",
     "community": "Cozy Corner",
     "reason": "racial slurs"
   },
   {
     "name": "HENTAI GOD",
     "steamid": "76561198136747717",
+    "steam_url": "https://steamcommunity.com/profiles/76561198136747717",
     "community": "HIVE",
     "reason": "disturbs female members of HIVE"
   },
   {
     "name": "8y_cu",
     "steamid": "76561197983544929",
+    "steam_url": "https://steamcommunity.com/profiles/76561197983544929",
     "community": "nbmk",
     "reason": "racist messages on boards"
   },
   {
     "name": "ZestyPingus",
     "steamid": "76561199126400058",
-    "community": "nbmk",
+    "steam_url": "https://steamcommunity.com/profiles/76561199126400058",
+    "communities": ["nbmk", "Cozy Corner"],
     "reason": "racist messages on boards"
   }
 ]
