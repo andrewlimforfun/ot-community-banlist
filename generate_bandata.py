@@ -1,6 +1,6 @@
 import json
 
-INPUT_FILE = "ban_list.json"
+INPUT_FILE = "troll_list.json"
 OUTPUT_FILE = "BanData.txt"
 
 with open(INPUT_FILE, "r", encoding="utf-8") as f:
