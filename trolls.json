@@ -47,5 +47,12 @@
     "steam_url": "https://steamcommunity.com/profiles/76561199126400058",
     "communities": ["nbmk", "Cozy Corner"],
     "reason": "racist messages on boards"
+  },
+  {
+    "name": "76561199060111560",
+    "steamid": "76561199060111560",
+    "steam_url": "https://steamcommunity.com/profiles/76561199060111560",
+    "communities": ["nbmk"],
+    "reason": "spamming malicious tinyurl links on ON2G server"
   }
 ]
