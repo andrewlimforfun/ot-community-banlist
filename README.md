@@ -13,7 +13,7 @@ Each entry requires the following mandatory fields:
 |-------|----------|-------------|
 | `name` | yes | In-game player name |
 | `steamid` | yes | Steam ID (64-bit) |
-| `community` | no | Server or community the ban originates from |
+| `communities` | no | List of servers or communities the ban originates from |
 | `reason` | no | Reason for the ban |
 | `date` | no | Ban date |
 | `evidence` | no | Evidence such as a snippet of Fomo ChatLog or Chalkboard Screenshot |
@@ -24,7 +24,7 @@ Contributors may also include any additional fields with relevant information (e
 {
   "name": "PlayerName",
   "steamid": "76561199000000000",
-  "community": "Server Name",
+  "communities": ["Server Name"],
   "reason": "reason for ban",
   "date": "2026-04-23",
   "evidence": "https://link-to-evidence"
@@ -33,6 +33,9 @@ Contributors may also include any additional fields with relevant information (e
 
 ### `BanData.txt`
 Generated from `trolls.json` using `generate_bandata.py`. This file is formatted for direct use in-game.
+
+### `ChatBroadcast.txt`
+Generated from `trolls.json` using `generate_bandata.py`. This file contains one line per entry with `name`, `steamid`, `communities`, and `reason`, formatted for easy copy/paste into chat announcements.
 
 In-game, On-Together reads ban data from:
 ```
@@ -49,6 +52,9 @@ This could contain a very young player that does not fit in your community for e
 ### `PersonalBanData.txt`
 Generated from `trolls.json` combined with your personal `personal_banlist.json` (if present). Use this instead of `BanData.txt` if you want to supplement the community list with your own private entries.
 
+### `PersonalChatBroadcast.txt`
+Generated from `trolls.json` combined with your personal `personal_banlist.json` (if present). This is the personal-merged version of `ChatBroadcast.txt`.
+
 Copy to:
 ```
 AppData\LocalLow\GigaPuff\On-Together\BanData.txt
@@ -59,7 +65,7 @@ AppData\LocalLow\GigaPuff\On-Together\BanData.txt
 1. Clone this repository.
 2. Add your entry to `trolls.json`. Only `name` and `steamid` are required - all other fields are optional.
 You may include any extra fields with additional context.
-3. Run `generate_bandata.py` to regenerate `BanData.txt`:
+3. Run `generate_bandata.py` to regenerate `BanData.txt` and chat broadcast files:
    ```
    python generate_bandata.py
    ```
