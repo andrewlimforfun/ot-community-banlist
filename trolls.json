@@ -82,5 +82,19 @@
     "steam_url": "https://steamcommunity.com/profiles/76561199844683157",
     "communities": ["Sweet's (Vivi)"],
     "reason": "rape talk"
+  },
+  {
+    "name": "Homer",
+    "steamid": "76561198010068665",
+    "steam_url": "https://steamcommunity.com/profiles/76561198010068665",
+    "communities": ["Sweet's (Vivi)", "HIVE (s|b)"],
+    "reason": "general trolling, racism, harrassment, and malicious impersonation. pairs with earthbender"
+  },
+  {
+    "name": "earthbender",
+    "steamid": "76561198021565413",
+    "steam_url": "https://steamcommunity.com/profiles/76561198021565413",
+    "communities": ["Sweet's (Vivi)", "HIVE (s|b)"],
+    "reason": "general trolling, racism, harrassment, and malicious impersonation. pairs with homer"
   }
 ]
