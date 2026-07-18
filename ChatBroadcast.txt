@@ -13,3 +13,6 @@ Name: LUCIFER | SteamID: 76561199844683157 | Communities: Sweet's (Vivi) | Reaso
 Name: Homer | SteamID: 76561198010068665 | Communities: Sweet's (Vivi), HIVE (s|b) | Reason: general trolling, racism, harrassment, and malicious impersonation. pairs with earthbender
 Name: earthbender | SteamID: 76561198021565413 | Communities: Sweet's (Vivi), HIVE (s|b) | Reason: general trolling, racism, harrassment, and malicious impersonation. pairs with homer
 Name: Michael711447 | SteamID: 76561199706091755 | Communities: Blue's | Reason: voice spamming
+Name: GundamFan | SteamID: 76561199625871471 | Communities: Cozy Corner | Reason: Overt sexism, drawing genitalia, and nazi-swastika
+Name: TheOneAndOnly | SteamID: 76561199574568731 | Communities: Cozy Corner | Reason: GundamFan 1471's alt account
+Name: TransAndProud | SteamID: 76561199805519840 | Communities: Cozy Corner | Reason: GundamFan 1471's alt account

@@ -103,5 +103,26 @@
     "steam_url": "https://steamcommunity.com/profiles/76561199706091755",
     "communities": ["Blue's"],
     "reason": "voice spamming"
+  },
+  {
+    "name": "GundamFan",
+    "steamid": "76561199625871471",
+    "steam_url": "https://steamcommunity.com/profiles/76561199625871471",
+    "communities": ["Cozy Corner"],
+    "reason": "Overt sexism, drawing genitalia, and nazi-swastika"
+  },
+  {
+    "name": "TheOneAndOnly",
+    "steamid": "76561199574568731",
+    "steam_url": "https://steamcommunity.com/profiles/76561199574568731",
+    "communities": ["Cozy Corner"],
+    "reason": "GundamFan 1471's alt account"
+  },
+  {
+    "name": "TransAndProud",
+    "steamid": "76561199805519840",
+    "steam_url": "https://steamcommunity.com/profiles/76561199805519840",
+    "communities": ["Cozy Corner"],
+    "reason": "GundamFan 1471's alt account"
   }
 ]
